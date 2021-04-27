@@ -12,7 +12,7 @@ body {
     width: 50%;
     height: 100%;
     border-radius: 10px;
-    grid-gap: 20px
+    grid-gap: 30px
 }
 .image {
     display: grid;
@@ -24,7 +24,7 @@ body {
 .text {
     width: 100%;
     display: flex;
-    padding: 20px 0px 20px 20px;
+    padding: 20px 10px 30px 30px;
     font-family: 'Inter', sans-serif;
     flex-direction: column
 }
