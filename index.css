@@ -8,11 +8,11 @@ body {
     background-color: hsl(244, 38%, 16%);
     margin: 20% 20%;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(50%, 50%));
+    grid-template-columns: repeat(auto-fill, minmax(50%, 40%));
     width: 50%;
     height: 100%;
     border-radius: 10px;
-    grid-gap: 0px
+    grid-gap: 40px
 }
 .image {
     display: grid;
@@ -23,7 +23,7 @@ body {
 }
 .text {
     display: flex;
-    padding: 20px 30px;
+    padding: 20px 0px 20px 20px;
     font-family: 'Inter', sans-serif;
     flex-direction: column
 }
