@@ -22,6 +22,7 @@ body {
     border-radius: 0px 10px 10px 0px
 }
 .text {
+    width: 100%;
     display: flex;
     padding: 20px 0px 20px 20px;
     font-family: 'Inter', sans-serif;
