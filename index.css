@@ -6,7 +6,7 @@ body {
 }
 .container {
     background-color: hsl(244, 38%, 16%);
-    margin: 20% 20%;
+    margin: 10% 20%;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
     width: 1200px;
